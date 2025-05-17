@@ -6,7 +6,7 @@ import { useAsyncError } from "react-router-dom";
 axios.defaults.withCredentials = true;
 
 const AppState = (props) =>{
-    const url="http://localhost:3000/api"
+    const url="https://quickcart-kc9y.onrender.com/api"
     const [token , setToken] = useState("");
     const [isAuthenticated , setIsAuthenticated] = useState(false);
     const [cart , setCart] = useState([]);
