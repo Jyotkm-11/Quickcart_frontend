@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image-container {
+    height: 370px;
+    border: 0.1px solid rgba(20, 167, 20, 0.773); /* Adds border to the div */
+    padding: 10px; /* Adds space inside the border */
+    text-align: center; /* Centers the content */
+}
+
+.custom-img {
+   width: 60%;
+    height: 330px; 
+    display: block; /* Removes extra space below the image */
+    margin: 0 auto; /* Centers the image */
+}
+
+
+  
