@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react'
 import AppContext from '../Context/AppContext'
 import Footer from './Footer';
-import Lastpartbody from './lastpartbody';
+import Lastpartbody from './Lastpartbody';
 
 const Relatedproduct = ({category}) => {
     const {products,} = useContext(AppContext);
