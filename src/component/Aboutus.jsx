@@ -1,7 +1,7 @@
 import React ,{ useEffect, useState } from 'react'
 import Head from './Head'
 import { FaTags, FaHandshake, FaTruck, FaUndoAlt, FaSmile, FaClock } from 'react-icons/fa';
-import Lastpartbody from './lastpartbody';
+import Lastpartbody from './Lastpartbody';
 import Footer from './Footer';
 
 const Aboutus = () => {
