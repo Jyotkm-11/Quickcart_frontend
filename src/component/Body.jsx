@@ -6,7 +6,7 @@ import Head from './Head'
 import Featuredcat from './Featuredcat'
 import DailyBestSells from './DailyBestSells'
 import Dealsofday from './Dealsofday'
-import Lastpartbody from './lastpartbody'
+import Lastpartbody from './Lastpartbody'
 
 
 const Body = () => {
