@@ -5,7 +5,7 @@ import Head from './Head';
 import AppContext from "../Context/AppContext";
 import Relatedproduct from './Relatedproduct';
 import Featuredcat from './Featuredcat';
-import Lastpartbody from './lastpartbody';
+import Lastpartbody from './Lastpartbody';
 import Footer from './Footer';
 
 const ProductDetail = () => {
